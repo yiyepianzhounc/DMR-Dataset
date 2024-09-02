@@ -67,5 +67,5 @@ roles| The name of roles. | \["范殿元", "栓柱", ...]
 
 # Explanations and Issues
 * In order to protect the privacy of users, we have encrypted the user IDs in DMR-Dataset.
-* The spam and non-spam movie review is labeled based on the labeling strategy proposed by us in our paper "GAIM: Graph-aware Feature Interactional Model for Spam Movie Review Detection".
+* The spam and non-spam movie review is labeled based on the labeling strategy proposed by us in our paper "Lei Zhang, Xueqiang Song, Xiaoming Zhao, Yuwei Fang, Dong Li, Haizhou Wang*.GAIM: Graph-aware Feature Interactional Model for Spam Movie Review Detection [C], Proceeding of 26th International Conference on Pattern Recognition (ICPR 2022), Montréal, Québec, August 21-25, 2022, pp. 621-628.".
 * Other issues will be updated soon...
